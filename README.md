@@ -31,10 +31,6 @@ CSE Honors @ SCU | Building AI, full-stack, and automation systems.
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=dolamquan&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dolamquan&layout=compact&theme=tokyonight)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=dolamquan&theme=tokyonight)
 
 ---
