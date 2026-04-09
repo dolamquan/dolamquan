@@ -28,6 +28,12 @@
 	<a href="https://github.com/dolamquan" target="_blank">
 		<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 	</a>
+	<a href="https://dolamquan.github.io/Portfolio-Quan-Do/" target="_blank">
+		<img src="https://img.shields.io/badge/Website-0F766E?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+	</a>
+	<a href="https://dolamquan.github.io/Quan-Do-s-blog/" target="_blank">
+		<img src="https://img.shields.io/badge/Blog-1D4ED8?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog" />
+	</a>
 </p>
 
 ## About me
@@ -36,6 +42,8 @@
 - 🤖 Focused on machine learning systems, LLM workflows, and scalable engineering
 - 🧠 Building projects at the intersection of AI, data pipelines, and product development
 - 🚀 Enjoy turning ideas into reliable products with clear impact
+- 🌐 Website: https://dolamquan.github.io/Portfolio-Quan-Do/
+- ✍️ Blog: https://dolamquan.github.io/Quan-Do-s-blog/
 
 ## Current focus
 
