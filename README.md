@@ -60,8 +60,8 @@
 ## GitHub stats
 
 <p>
-	<img height="170" src="https://github-readme-stats.vercel.app/api?username=dolamquan&show_icons=true&theme=tokyonight&hide_border=true" alt="github stats" />
-	<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dolamquan&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+	<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dolamquan&theme=tokyonight" alt="github stats" />
+	<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dolamquan&theme=tokyonight" alt="top languages" />
 </p>
 
 <p>
