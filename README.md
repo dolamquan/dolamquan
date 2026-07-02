@@ -42,7 +42,7 @@
 - 🤖 Focused on machine learning systems, LLM workflows, and scalable engineering
 - 🧠 Building projects at the intersection of AI, data pipelines, and product development
 - 🚀 Enjoy turning ideas into reliable products with clear impact
-- 🌐 Website: https://dolamquan.github.io/Portfolio-Quan-Do/
+- 🌐 Website: https://quan-resume-m3z2yx4kw-quan-dos-projects-5b1fd939.vercel.app/
 - ✍️ Blog: https://dolamquan.github.io/Quan-Do-s-blog/
 
 ## Current focus
